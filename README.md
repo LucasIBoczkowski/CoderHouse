@@ -1,2 +1,2 @@
 # CoderHouse
-Repositorio para almacenar las entregas de los cursos de CoderHouse
+Repositorio para almacenar las entregas del curso de Data Science de CoderHouse
